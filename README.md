@@ -10,8 +10,10 @@ There certainly exist other tools, the most prominent one being [dltool](https:/
 ## (Planned) Features
 ### Core
 - Bandwith utilization optimization
-- Verfication of individual ROMs using checksums and of entire collection
+- Verfication of individual ROMs using checksums
+- Verification of collection completeness
 - Easy-to-use but powerful interactive interface
+- Automatic download resumption after aborts
 ### Later / More Advanced
 - A terminal user interface (TUI)
 - Removal of DAT file requirement
